@@ -1,0 +1,43 @@
+Exercise 1.1: Getting Started with Python 
+
+
+1. In your own words, what is the difference between frontend and backend web development?
+ If you were hired to work on backend programming for a web application, what kinds of operations would you be working on?
+
+Answer 1 - 
+Front-end is the part of a website users interact with. Buttons, links, forms, 
+and animations are all created using HTML, CSS, and JavaScript.
+Back-end handles data storage and business logic. It communicates with the 
+database to store and retrieve user information. Tools like Python, PHP, 
+JavaScript, and Ruby on Rails are used. For a back-end role, tasks may include 
+working with databases, authentication, encryption, APIs, and data mapping.
+
+2. Imagine you’re working as a full-stack developer in the near future.
+ Your team is asking for your advice on whether to use JavaScript or Python for a project, and you think Python would be the better choice.
+  How would you explain the similarities and differences between the two languages to your team?
+   Drawing from what you learned in this Exercise, what reasons would you give to convince your team that Python is the better option? 
+(Hint: refer to the Exercise section “The Benefits of Developing with Python”)
+
+Answer 2 -
+Both JavaScript and Python are user-friendly high-level languages with dynamic 
+typing. Python's standout feature is its exceptional readability, which becomes 
+even more crucial as projects scale. This clarity ensures that as more developers 
+join, the code remains accessible and supports effective collaboration.
+
+Moreover, Python offers built-in package management and thrives within a dynamic 
+community that diligently updates the language. This ongoing commitment guarantees 
+its enduring relevance and adaptability to evolving technological landscapes.
+
+3. Now that you’ve had an introduction to Python, write down 3 goals you have for yourself and your learning during this Achievement.
+ You can reflect on the following questions if it helps you.
+  What do you want to learn about Python? 
+  What do you want to get out of this Achievement? 
+  Where or what do you see yourself working on after you complete this Achievement?
+
+Answer 3 -
+I want to learn more about object-oriented programming..
+I want to learn how to write scripts to automate tasks.
+I want to enhance my backend skills.
+
+
+
